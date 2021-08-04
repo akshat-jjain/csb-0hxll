@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://akshat-jjain.github.io/csb-0hxll/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://akshat-jjain.github.io/csb-0hxll/static/js/main.3385bbc1.chunk.js",
+    "main.js.map": "https://akshat-jjain.github.io/csb-0hxll/static/js/main.3385bbc1.chunk.js.map",
+    "runtime-main.js": "https://akshat-jjain.github.io/csb-0hxll/static/js/runtime-main.6fe54427.js",
+    "runtime-main.js.map": "https://akshat-jjain.github.io/csb-0hxll/static/js/runtime-main.6fe54427.js.map",
+    "static/js/2.59b1b6f8.chunk.js": "https://akshat-jjain.github.io/csb-0hxll/static/js/2.59b1b6f8.chunk.js",
+    "static/js/2.59b1b6f8.chunk.js.map": "https://akshat-jjain.github.io/csb-0hxll/static/js/2.59b1b6f8.chunk.js.map",
+    "static/js/3.2e672381.chunk.js": "https://akshat-jjain.github.io/csb-0hxll/static/js/3.2e672381.chunk.js",
+    "static/js/3.2e672381.chunk.js.map": "https://akshat-jjain.github.io/csb-0hxll/static/js/3.2e672381.chunk.js.map",
+    "index.html": "https://akshat-jjain.github.io/csb-0hxll/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://akshat-jjain.github.io/csb-0hxll/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.59b1b6f8.chunk.js.LICENSE.txt": "https://akshat-jjain.github.io/csb-0hxll/static/js/2.59b1b6f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fe54427.js",
+    "static/js/2.59b1b6f8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3385bbc1.chunk.js"
+  ]
+}
