@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://akshat-jjain.github.io/csb-0hxll/static/css/main.6dea0f05.chunk.css",
-    "main.js": "https://akshat-jjain.github.io/csb-0hxll/static/js/main.d214b205.chunk.js",
-    "main.js.map": "https://akshat-jjain.github.io/csb-0hxll/static/js/main.d214b205.chunk.js.map",
+    "main.js": "https://akshat-jjain.github.io/csb-0hxll/static/js/main.122bafac.chunk.js",
+    "main.js.map": "https://akshat-jjain.github.io/csb-0hxll/static/js/main.122bafac.chunk.js.map",
     "runtime-main.js": "https://akshat-jjain.github.io/csb-0hxll/static/js/runtime-main.6fe54427.js",
     "runtime-main.js.map": "https://akshat-jjain.github.io/csb-0hxll/static/js/runtime-main.6fe54427.js.map",
     "static/js/2.59b1b6f8.chunk.js": "https://akshat-jjain.github.io/csb-0hxll/static/js/2.59b1b6f8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6fe54427.js",
     "static/js/2.59b1b6f8.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.d214b205.chunk.js"
+    "static/js/main.122bafac.chunk.js"
   ]
 }
